@@ -3,6 +3,7 @@
 # Bem vindo ao curso Git e Github.
 nesse curso vc vai dominar todo o **git e github** do _zero ao profissional_.
 
+**Ultimas updates:**
 - [X] Site responsivo
 - [ ] Login com facebook
 - [ ] Pagina sobre a empresa
@@ -54,3 +55,11 @@ funtion showname(name){
 ### Titulo <h4>
 ##### Titulo <h5>
 ###### Titulo <h6>
+
+
+Propriedade | Descrição 
+----------- | ---------- |
+name | informar nome usuario
+size | para definir tamanho campo
+backgroud | cor de fundo da area
+onPress | função chamada quando clicar botão
