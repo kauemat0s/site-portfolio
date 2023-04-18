@@ -8,7 +8,7 @@ _Entendendo oq é **git.**
 Aprendendo sobre repositorios.
 Trabalhando com **branches**._
 
-###Rede social:
+### Rede social:
 [Instagran](URL)
 
 ...
