@@ -9,6 +9,10 @@ nesse curso vc vai dominar todo o **git e github** do _zero ao profissional_.
 * Git anançado
 * Usando github de forma profissional
 
+1. começando com git
+2. APrendendo sobre branchs
+3. Git avançado
+
 ### Rede social:
 [Instagran](URL)
 
