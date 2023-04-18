@@ -16,6 +16,10 @@ nesse curso vc vai dominar todo o **git e github** do _zero ao profissional_.
 2. APrendendo sobre branchs
 3. Git avançado
 
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Seguda area destacada
+
 ### Rede social:
 [Instagran](URL)
 
