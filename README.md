@@ -20,6 +20,26 @@ nesse curso vc vai dominar todo o **git e github** do _zero ao profissional_.
 >
 >Seguda area destacada
 
+**comando para rodar o projeto**
+```
+npm start
+```
+
+**Exemplo de uso do script**
+```js
+funtion showname(name){
+    return *Bem vindo: ' + name;
+}
+```
+
+**uso do componet HTML**
+```html
+<h1>
+    Titulo do projeto
+    <span>Curso Git</span>
+</h1>
+```
+
 ### Rede social:
 [Instagran](URL)
 
